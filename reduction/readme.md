@@ -4,8 +4,9 @@ Here, we provide the code that we used to derive polarimetric results in Geem et
 
 |Notebook, Script, Directory|Explanation|
 |:----------------- |--------------- |
-|[``HONIR.py``](Masking_image.py)|The code for making the "Masking image" of FITS file. The "Masking image" masks the 1) nearby stars, 2)cosmic ray, and if data is MSI's data then, 3) the polarization mask area. |
-|[``NO_Polarimetric_Analysis.py``](NO_Polarimetric_Analysis.py)|The code to do aperture photometry and derive the stokes parameter from Data taken by MSI at Pirka telescope.|
+|[``1.FAPOL_maksing.ipynb``](1.FAPOL_maksing.ipynb)|The code for making the "Masking image" of FAPOL's data. |
+|[``2.FAPOL_aperture_photometry.ipynb``](2.FAPOL_aperture_photometry.ipynb)|The code for the aperture photometry of FAPOL's data.|
+|[``2.FAPOL_aperture_photometry.ipynb``](3.FAPOL_derive_qu.ipynb)|The code for deriving the $q$ and $u$ values of the target taken by FAPOL.|
 |[``NOT_Polarimetric_Analysis.py``](NOT_Polarimetric_Analysis.py)|The code to do aperture photometry and derive the stokes parameter from Data taken by ALFOSC+FAPOL at NOT.|
 |[``NOT_Subtract.py``](NOT_Subtract.py)|The code to do the subtraction technique which removes the nearby stars and the background's gradient in data taken by NOT. This technique is **used only for ALFOSC's data taken at 2018 Sep 12 and 19**.|
 |[``result_quplane/``](result_quplane/)| The directory contains the results of NO and NOT as a qu-plane image.|
