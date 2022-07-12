@@ -1,0 +1,90 @@
+"spkid","full_name","pdes","name","albedo","spec_B","spec_T"
+2000002,"     2 Pallas (A802 FA)",2,Pallas,0.101,B,B
+2000024,"    24 Themis (A853 GA)",24,Themis,0.067,B,C
+2000047,"    47 Aglaja (A857 RA)",47,Aglaja,0.082,B,C
+2000059,"    59 Elpis (A860 RA)",59,Elpis,0.044,B,CP
+2000085,"    85 Io (A865 SA)",85,Io,0.0666,B,FC
+2000088,"    88 Thisbe (A866 LA)",88,Thisbe,0.0671,B,CF
+2000142,"   142 Polana (A875 BA)",142,Polana,0.047,B,F
+2000213,"   213 Lilaea (A880 DA)",213,Lilaea,0.092,B,F
+2000225,"   225 Henrietta (A882 HA)",225,Henrietta,0.062,,F
+2000241,"   241 Germania (A884 RA)",241,Germania,0.0575,B,CP
+2000282,"   282 Clorinde (A889 BA)",282,Clorinde,0.0502,B,BFU::
+2000302,"   302 Clarissa (A890 VA)",302,Clarissa,0.0524,,F
+2000335,"   335 Roberta (A892 RB)",335,Roberta,0.049,B,FP
+2000372,"   372 Palma (A893 QB)",372,Palma,0.059,B,BFC
+2000383,"   383 Janina (A894 BC)",383,Janina,0.040,B,B
+2000419,"   419 Aurelia (A896 RF)",419,Aurelia,0.034,,F
+2000426,"   426 Hippo (A897 RA)",426,Hippo,0.040,,F
+2000431,"   431 Nephele (A897 YB)",431,Nephele,0.055,B,B
+2000530,"   530 Turandot (A904 GB)",530,Turandot,0.0472,,F
+2000531,"   531 Zerlina (A904 GC)",531,Zerlina,0.101,B,
+2000541,"   541 Deborah (A904 PF)",541,Deborah,0.055,B,
+2000555,"   555 Norma (A905 AF)",555,Norma,0.119,B,
+2000560,"   560 Delila (A905 EC)",560,Delila,0.062,B,
+2000702,"   702 Alauda (A910 OA)",702,Alauda,0.061,B,C
+2000704,"   704 Interamnia (A910 TC)",704,Interamnia,0.078,B,F
+2000750,"   750 Oskar (A913 HF)",750,Oskar,0.060,,F
+2000762,"   762 Pulcova (A913 RD)",762,Pulcova,0.040,,F
+2000767,"   767 Bondia (A913 SD)",767,Bondia,0.095,B,
+2000778,"   778 Theobalda (A914 BG)",778,Theobalda,0.079,,F
+2000877,"   877 Walkure (A915 RV)",877,Walkure,0.0623,,F
+2000880,"   880 Herba (A917 OC)",880,Herba,0.049,,F
+2000895,"   895 Helio (A918 NA)",895,Helio,0.071,B,FCB
+2001012,"  1012 Sarema (A924 AD)",1012,Sarema,0.049,,F
+2001021,"  1021 Flammario (A924 EW)",1021,Flammario,0.045,B,F
+2001076,"  1076 Viola (1926 TE)",1076,Viola,0.041,C,F
+2001080,"  1080 Orchis (1927 QB)",1080,Orchis,0.033,,F
+2001331,"  1331 Solvejg (1933 QS)",1331,Solvejg,0.121,B,BC:
+2001474,"  1474 Beira (1935 QY)",1474,Beira,,B,FX
+2001484,"  1484 Postrema (1938 HC)",1484,Postrema,0.015,B,
+2001493,"  1493 Sigrid (1938 QB)",1493,Sigrid,0.034,Xc,F
+2001539,"  1539 Borrelly (1940 UB)",1539,Borrelly,0.142,B,
+2001579,"  1579 Herrick (1948 SB)",1579,Herrick,0.043,,F
+2001650,"  1650 Heckmann (1937 TG)",1650,Heckmann,0.046,,F
+2001655,"  1655 Comas Sola (1929 WG)",1655,"Comas Sola",0.045,B,XFU
+2001705,"  1705 Tapio (1941 SL1)",1705,Tapio,0.089,B,
+2001724,"  1724 Vladimir (1932 DC)",1724,Vladimir,0.037,B,FBCU::
+2001740,"  1740 Paavo Nurmi (1939 UA)",1740,"Paavo Nurmi",0.046,,F
+2001768,"  1768 Appenzella (1965 SA)",1768,Appenzella,0.032,C,F
+2001815,"  1815 Beethoven (1932 CE1)",1815,Beethoven,0.057,,F
+2002081,"  2081 Sazava (1976 DH)",2081,Sazava,0.022,,F
+2002139,"  2139 Makharadze (1970 MC)",2139,Makharadze,0.045,,F
+2002279,"  2279 Barto (1968 DL)",2279,Barto,0.065,,F
+2002382,"  2382 Nonie (1977 GA)",2382,Nonie,0.113,B,
+2002446,"  2446 Lunacharsky (1971 TS2)",2446,Lunacharsky,0.079,B,
+2002527,"  2527 Gregory (1981 RE)",2527,Gregory,0.050,B,
+2002629,"  2629 Rudra (1980 RB1)",2629,Rudra,0.066,B,
+2002659,"  2659 Millis (1981 JX)",2659,Millis,0.050,B,
+2002708,"  2708 Burns (1981 WT)",2708,Burns,0.084,B,
+2002772,"  2772 Dugan (1979 XE)",2772,Dugan,0.073,B,
+2002809,"  2809 Vernadskij (1978 QW2)",2809,Vernadskij,0.037,B,BFX
+2002816,"  2816 Pien (1982 SO)",2816,Pien,0.042,B,
+2002973,"  2973 Paola (1951 AJ)",2973,Paola,0.050,B,
+2003000,"  3000 Leonardo (1981 EG19)",3000,Leonardo,0.115,B,
+2003074,"  3074 Popov (1979 YE9)",3074,Popov,0.070,B,
+2003123,"  3123 Dunham (1981 QF2)",3123,Dunham,0.040,,F
+2003200,"  3200 Phaethon (1983 TB)",3200,Phaethon,0.1066,B,F
+2003566,"  3566 Levitan (1979 YA9)",3566,Levitan,0.056,B,
+2003579,"  3579 Rockholt (1977 YA)",3579,Rockholt,0.120,B,
+2003581,"  3581 Alvarez (1985 HC)",3581,Alvarez,,B,
+2003627,"  3627 Sayers (1973 DS)",3627,Sayers,0.055,B,
+2003647,"  3647 Dermott (1986 AD1)",3647,Dermott,0.069,B,
+2004124,"  4124 Herriot (1986 SE)",4124,Herriot,0.054,B,
+2004396,"  4396 Gressmann (1981 JH)",4396,Gressmann,0.288,B,
+2004686,"  4686 Maisica (1979 SX2)",4686,Maisica,0.699,B,
+2004997,"  4997 Ksana (1986 TM)",4997,Ksana,0.316,B,
+2005079,"  5079 Brubeck (1975 DB)",5079,Brubeck,0.0592,B,
+2005102,"  5102 Benfranklin (1986 RD1)",5102,Benfranklin,0.041,B,
+2005133,"  5133 Phillipadams (1990 PA)",5133,Phillipadams,0.081,B,
+2005222,"  5222 Ioffe (1980 TL13)",5222,Ioffe,0.202,B,
+2005234,"  5234 Sechenov (1989 VP)",5234,Sechenov,0.154,B,
+2005330,"  5330 Senrikyu (1990 BQ1)",5330,Senrikyu,0.123,B,
+2005344,"  5344 Ryabov (1978 RN)",5344,Ryabov,0.070,B,
+2005690,"  5690 (1992 EU)",5690,,0.041,B,
+2006500,"  6500 Kodaira (1993 ET)",6500,Kodaira,0.151,B,
+2007753,"  7753 (1988 XB)",7753,,,B,
+2025330," 25330 (1999 KV4)",25330,,0.052,B,
+2065679," 65679 (1989 UQ)",65679,,0.033,B,
+2101955,"101955 Bennu (1999 RQ36)",101955,Bennu,0.044,B,
+2523972,"523972 (1999 CW8)",523972,,,B,
