@@ -1,6 +1,6 @@
 # Data Reduction
 
-Here, we provide the code that we used to derive polarimetric results in [Geem et al. (MNRAS 2022)] ( https://academic.oup.com/mnrasl/article/516/1/L53/6639881). The contents are
+Here, we provide the code that we used to derive polarimetric results in [Geem et al. (MNRAS 2022)]( https://academic.oup.com/mnrasl/article/516/1/L53/6639881). The contents are
 
 |Notebook, Script, Directory|Explanation|
 |:----------------- |--------------- |
