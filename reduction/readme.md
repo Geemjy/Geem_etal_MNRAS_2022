@@ -7,7 +7,6 @@ Here, we provide the code that we used to derive polarimetric results in Geem et
 |[``1.FAPOL_maksing.ipynb``](1.FAPOL_maksing.ipynb)|The code for making the "Masking image" of FAPOL's data. |
 |[``2.FAPOL_aperture_photometry.ipynb``](2.FAPOL_aperture_photometry.ipynb)|The code for the aperture photometry of FAPOL's data.|
 |[``3.FAPOL_derive_qu..ipynb``](3.FAPOL_derive_qu.ipynb)|The code for deriving the $q$ and $u$ values of the target taken by FAPOL.|
-|[``NOT_Polarimetric_Analysis.py``](NOT_Polarimetric_Analysis.py)|The code to do aperture photometry and derive the stokes parameter from Data taken by ALFOSC+FAPOL at NOT.|
 |[``1.HONIR_masking.py``](1.HONIR_masking.py)|The code for making the "Masking image" of HONIR's data|
 |[``2.HONIR_aper_photometry.py``](2.HONIR_aper_photometry.py)| The code for the aperture photometry of HONIR's data.|
 |[``3.HONIR_derive_qu.py``](3.HONIR_derive_qu.py)|The code for deriving the $q$ and $u$ values of the target taken by HONIR.|
