@@ -1,6 +1,6 @@
 # Data Reduction
 
-Here, we provide the code that we used to derive polarimetric results in Geem et al. (MNRAS 2022). The contents are
+Here, we provide the code that we used to derive polarimetric results in [Geem et al. (MNRAS 2022)] ( https://academic.oup.com/mnrasl/article/516/1/L53/6639881). The contents are
 
 |Notebook, Script, Directory|Explanation|
 |:----------------- |--------------- |
@@ -32,7 +32,7 @@ Before running the script, the following packages must be installed.
     
 ## Contact
 
-Created by Jooyeon Geem. - If you have any questions, please feel free to contact me (geem@astro.snu.ac.kr) !
+Created by Jooyeon Geem. - If you have any questions, please feel free to contact me (ksky0422@gmail.com or geem@astro.snu.ac.kr) !
 
 The data reduction pipeline of MSI will continue to be developed in [@Geemjy](https://github.com/Geemjy) in the future.
 
