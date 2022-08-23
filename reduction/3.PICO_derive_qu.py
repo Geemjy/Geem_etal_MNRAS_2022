@@ -44,7 +44,7 @@ from astropy.time import Time
 
 
 
-def PICO_qu(kappa,err_kappa,condition='normal'):
+def PICO_qu(kappa,err_kappa):
 
     k_0 = kappa[0]
     k_45 = kappa[1]
